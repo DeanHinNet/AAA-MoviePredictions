@@ -1,0 +1,68 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="796" measuredH="741" mockupW="736" mockupH="721">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="60" y="20" w="736" h="721" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Movie%20Predictions%21%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="89" y="213" w="83" h="86" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="178" y="213" w="-1" h="-1" measuredW="166" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Thor%3A%20Ragnorak</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="89" y="158" w="-1" h="-1" measuredW="322" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Upcoming%20Movies</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="178" y="243" w="-1" h="-1" measuredW="224" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Release%20Date%3A%20Nov%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="178" y="270" w="-1" h="-1" measuredW="127" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Predictions%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="89" y="299" w="-1" h="-1" measuredW="348" measuredH="111" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>true</hasHeader>
+        <text>Movie%20Sage%2C%20Personal%2C%20RT%2C%20IMDB%2C%20Critic%20Prediction%0ADean%2C%20A%2C%2093%2C%208.6%2C%20Chris-Stuckkman%3A%20A%0ASandy%2C%20A%2C%2097%2C%209.8%2C%20Nostalgia-Critic%3A%20%0ABob%2C%20B%2C%2085%2C%208.5%2C%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="89" y="433" w="83" h="86" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="178" y="433" w="-1" h="-1" measuredW="273" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Star%20Wars%3A%20The%20Last%20Jedi</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="178" y="463" w="-1" h="-1" measuredW="234" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Release%20Date%3A%20Dec%2015</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="178" y="490" w="-1" h="-1" measuredW="127" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Predictions%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::DataGrid" x="89" y="519" w="-1" h="-1" measuredW="348" measuredH="111" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>true</hasHeader>
+        <text>Movie%20Sage%2C%20Personal%2C%20RT%2C%20IMDB%2C%20Critic%20Prediction%0ADean%2C%20A%2C%2093%2C%208.9%2C%20Chris-Stuckkman%3A%20A%0ASandy%2C%20A%2C%2099%2C%209.9%2C%20Nostalgia-Critic%3A%20%0ABob%2C%20B+%2C%2089%2C%208.9%2C%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="305" y="270" w="-1" h="-1" measuredW="110" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20Prediction%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="307" y="490" w="-1" h="-1" measuredW="110" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20Prediction%21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

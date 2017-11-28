@@ -1,0 +1,21 @@
+{
+	 "movieName": "Star Wars: The Last Jedi",
+	 "releaseDate": "17-12-15",
+	 "trailersUrl": ["https://www.youtube.com/watch?v=Q0CbN8sfihY"],
+	 "ratings": [
+	 		{
+	 			"user_id": "0001",
+	 			"source": "personal",
+	 			"prediction": "A",
+	 			"rating": "",
+	 			"created_date": "17-11-27",
+	 			"modified_dat": "17-11-27"
+	 		},
+	 		{
+	 			"user_id": "0001",
+	 			"source": "rotten tomatoes"
+	 			"prediciton": "",
+	 			"rating:
+	 		}
+	 ]
+}
